@@ -1,0 +1,40 @@
+.caixa{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: rgb(166, 112, 112);
+    width: 20rem;
+    height: 30rem ;
+    color: white;
+    display: flex;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    align-items: center;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.caixa2{
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color: white;
+    width: 15rem;
+    height: 3rem ;
+    color: rgb(166, 112, 112);
+    align-items: center;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+.caixa3{
+    border: 1px solid black;
+    border-radius: 7px;
+    background-color:white;
+    width: 15rem;
+    height: 3rem ;
+    color: rgb(166, 112, 112);
+    align-items: center;
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
